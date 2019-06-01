@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"myblog/models"
 	"encoding/json"
+	"github.com/jiangxufeng/beego-admin/models"
 	"time"
 )
 

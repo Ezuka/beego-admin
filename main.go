@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "myblog/routers"
-	"myblog/models"
+	_ "github.com/jiangxufeng/beego-admin/routers"
+	"github.com/jiangxufeng/beego-admin/models"
 	"github.com/astaxie/beego/orm"
 	"github.com/astaxie/beego/plugins/cors"
 	"github.com/astaxie/beego"

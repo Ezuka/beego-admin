@@ -1,11 +1,11 @@
 package controllers
 
 import (
-	"myblog/models"
 	"errors"
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/orm"
 	"github.com/dgrijalva/jwt-go"
+	"github.com/jiangxufeng/beego-admin/models"
 	"time"
 )
 

@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"github.com/astaxie/beego/orm"
-	"myblog/models"
+	"github.com/jiangxufeng/beego-admin/models"
 	"strconv"
 	"strings"
 )

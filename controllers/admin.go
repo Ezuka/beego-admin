@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"myblog/models"
+	"github.com/jiangxufeng/beego-admin/models"
 	"strconv"
 	"time"
 )
